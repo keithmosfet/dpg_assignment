@@ -13,8 +13,8 @@ This Terraform configuration sets up a scalable infrastructure on AWS, including
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/terraform-aws-autoscaling.git
-   cd terraform-aws-autoscaling
+   git clone https://github.com/keithmosfet/dpg_assignment.git
+   cd dpg_assignment
 
 
 2. **Initialize Terraform:**
