@@ -39,7 +39,7 @@ Confirm the changes to provision the infrastructure.
    Once the infrastructure is provisioned, the web application is accessible via the Load Balancer's DNS name. The DNS name can be found in the Terraform output. It will look similar to the example below. Enter the DNS Name into your Web Browser.
 
    ```bash
-   this_lb_dns_name = "Keith-test-alb-1111111XXXXXXX.eu-central-1.elb.amazonaws.com"
+   this_lb_dns_name = "dpg-dev-alb-1111111XXXXXXX.eu-central-1.elb.amazonaws.com"
 
 NOTE: The Provisioning of the infrastructure may take some time even after terraform has completed :) please be patient
 
